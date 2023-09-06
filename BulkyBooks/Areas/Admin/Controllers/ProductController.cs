@@ -5,7 +5,7 @@ using Bulky.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace BulkyWeb.Areas.Admin.Controllers
+namespace BulkyBooks.Areas.Admin.Controllers
 {
     [Area("Admin")]
     public class ProductController : Controller
